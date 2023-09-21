@@ -38,3 +38,6 @@ I'm a Junior at BeCode, I'm here to learn, share and practice my skills in devel
 
 # My FAV GIF !!!
 ![FavGIF](https://i.giphy.com/media/K7StRcr7hagJpXROmb/giphy.webp)
+
+
+Made by Thomas Syben 21/09/2023 - BeCode Bruxelles 
