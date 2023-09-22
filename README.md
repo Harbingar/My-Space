@@ -41,7 +41,7 @@ I'm a Junior at BeCode, I'm here to learn, share and practice my skills in devel
 
 # Discovering Markdown
 
-### Tasks in BeCode
+### ***Tasks in BeCode***
 - [x] Join BeCode (Completed)
 - [ ] Pass the first test month
 - [ ] Successful training
@@ -49,7 +49,7 @@ I'm a Junior at BeCode, I'm here to learn, share and practice my skills in devel
 - [X] Meeting nice people
 - [ ] Do my best
 
-### Home-made Excel
+### **Home-made Excel**
 
 | | A | B | C | D | E | F | G | H |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|
@@ -65,3 +65,4 @@ I'm a Junior at BeCode, I'm here to learn, share and practice my skills in devel
 
 
 Made by Thomas Syben 21/09/2023 - BeCode Bruxelles
+µ
